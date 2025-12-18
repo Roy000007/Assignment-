@@ -1,4 +1,4 @@
- Assignment	:	
+  Assignment	:	
 Module -1: Understanding of Hardware and Its
 Components
 
